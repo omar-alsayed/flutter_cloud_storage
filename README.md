@@ -4,7 +4,7 @@ cloud storage app built on php,flutter,mysql db
 
 
 
-![untitled](https://github.com/omar-alsayed/flutter_cloud_storage/assets/150298434/17fc00a4-f085-477f-8d24-a326d9b3d157)
+![untitled](https://github.com/omar-alsayed/flutter_cloud_storage/assets/150298434/37e9e485-d507-4d99-8db7-f40c5085ec8f=250x250)
 
 ## Getting Started
 
